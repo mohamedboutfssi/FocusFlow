@@ -5,9 +5,9 @@ Le projet permet de gérer des tâches, utiliser un timer Pomodoro et suivre les
 
 ## 👨‍💻 Réalisé par
 
-* Mohamed Boutfssi
-* Zakaria Ariki
-* Abdelaziz Irgui
+* Mohamed Boutfssi   M120000009
+* Zakaria Ariki     D137519775
+* Abdelaziz Irgui   G137133768
 
 ---
 
